@@ -1,0 +1,52 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.pyo
+*.pyd
+
+# =========================
+# Entornos virtuales
+# =========================
+.env
+.venv
+env/
+venv/
+ENV/
+
+# =========================
+# Django
+# =========================
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# =========================
+# Archivos de configuración o secretos
+# =========================
+*.env
+.env.*
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+.history/
+
+# =========================
+# Archivos del sistema
+# =========================
+.DS_Store
+Thumbs.db
+Carlinha
